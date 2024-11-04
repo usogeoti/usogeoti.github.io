@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://usogeoti.github.io/Pku/sitemap_index.txt
+Sitemap: https://usogeoti.github.io/WPn/sitemap_index.txt
+Sitemap: https://usogeoti.github.io/dHh/sitemap_index.txt
+Sitemap: https://usogeoti.github.io/jOi/sitemap_index.txt
